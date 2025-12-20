@@ -23,7 +23,7 @@
       <p>
         🐾 <b>当前习得：</b> Vue.js, Python, C++, PHP (Level 1 🌿) <br>
         🐾 <b>正在磨爪：</b> 数据结构与算法 <br>
-        🐾 <b>领地分布：</b> 喜欢 Furry 艺术和开源探索<br>
+        🐾 <b>领地分布：</b> 喜欢 Furry 和开源探索<br>
       </p>
     </td>
   </tr>
