@@ -1,9 +1,9 @@
 <p align="center">
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/中文%20🐾-c7cae9?style=for-the-badge&logoColor=7b8ba5&labelColor=c7cae9" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/Chinese%20-6d4c41?style=for-the-badge&logoColor=fdf0d5&labelColor=6d4c41" style="border-radius: 12px;" />
   </a>
   <a href="./README_EN.md">
-    <img src="https://img.shields.io/badge/英语%20-6d4c41?style=for-the-badge&logoColor=fdf0d5&labelColor=6d4c41" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/English%20🐾-c7cae9?style=for-the-badge&logoColor=7b8ba5&labelColor=c7cae9" style="border-radius: 12px;" />
   </a>
 </p>
 
@@ -16,14 +16,14 @@
 <table border="0">
   <tr>
     <td width="100%" valign="top">
-      <h2 align="center">✨ ฅ^•ﻌ•^ฅ  嗨！我是酪灰，很高兴见到你！</h2>
+      <h2 align="center">✨ ฅ^•ﻌ•^ฅ  Hi! I'm NanoRocky, nice to meet you!</h2>
       <p>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;英文名 NanoRocky，一只主修<b>计算机应用技术</b>的大一呆呆猫。正在努力从 “只会敲 Hello World” 的新手猫，成长为摆烂的躺平猫！（？）
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`酪灰` in Chinese, a freshman majoring in Computer Applications. I'm trying to grow from a newbie cat who can only type "Hello World" into a lazy cat!（nope）
       </p>
       <p>
-        🐾 <b>当前习得：</b> Vue.js, Python, C++, PHP (Level 1 🌿) <br>
-        🐾 <b>正在磨爪：</b> 数据结构与算法 <br>
-        🐾 <b>领地分布：</b> 喜欢 Furry 艺术和开源探索<br>
+        🐾 <b>Current learning：</b> Vue.js, Python, C++, PHP (Level 1 🌿) <br>
+        🐾 <b>Sharpening its claws：</b> Data Structures and Algorithms <br>
+        🐾 <b>Territory Distribution：</b> I love Furry and open-source exploration.<br>
       </p>
     </td>
   </tr>
@@ -35,14 +35,14 @@
 
 ---
 
-### 🍪 技能饼干盒
+### 🍪 Skill Cookie Box
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,ts,js,python,cpp,php,pinia&perline=8" />
 </p>
 
 ---
-### 🍳 猫猫的厨具
+### 🍳 NanoRocky's Kitchenware
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux,azure&perline=8" />
@@ -50,7 +50,7 @@
 
 ---
 
-### 📊 摸鱼统计
+### 📊 Statistics on slacking off
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NanoRocky&show_icons=true&theme=merko&bg_color=fdf0d5&title_color=6d4c41&text_color=5d4037&icon_color=c62828&hide_border=false" width="48%" />
@@ -75,7 +75,7 @@
 
 ---
 
-### 📫 捕捉猫猫
+### 📫 Catching NanoRocky
 
 <p align="center">
   <a href="https://nanorocky.top/">
