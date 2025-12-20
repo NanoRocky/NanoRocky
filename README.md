@@ -78,31 +78,31 @@
 ### 📫 捕捉猫猫
 
 <p align="center">
-  <a href="https://nanorocky.top/">
-    <img src="./data/ICON/Web.png" width="60">
+  <a href="https://nanorocky.top/" style="text-decoration:none;">
+    <img src="./data/ICON/WEB.png" width="60">
   </a>
-  <a href="https://x.com/NanoRocky_Sama/">
+  <a href="https://x.com/NanoRocky_Sama/" style="text-decoration:none;">
     <img src="./data/ICON/X.png" width="60">
   </a>
-  <a href="https://steamcommunity.com/id/NanoRocky/">
+  <a href="https://steamcommunity.com/id/NanoRocky/" style="text-decoration:none;">
     <img src="./data/ICON/S.png" width="60">
   </a>
-  <a href="https://discord.com/users/nanorocky/">
+  <a href="https://discord.com/users/nanorocky/" style="text-decoration:none;">
     <img src="./data/ICON/D.png" width="60">
   </a>
-  <a href="https://t.me/NanoRocky_Sama/">
+  <a href="https://t.me/NanoRocky_Sama/" style="text-decoration:none;">
     <img src="./data/ICON/T.png" width="60">
   </a>
-  <a href="https://space.bilibili.com/454187211/dynamic/">
+  <a href="https://space.bilibili.com/454187211/dynamic/" style="text-decoration:none;">
     <img src="./data/ICON/B.png" width="60">
   </a>
-  <a href="mailto:gongxi3525987739@gmail.com">
+  <a href="mailto:gongxi3525987739@gmail.com" style="text-decoration:none;">
     <img src="./data/ICON/E.png" width="60">
   </a>
-  <a href="https://qm.qq.com/q/ZSyVZILbuA/">
+  <a href="https://qm.qq.com/q/ZSyVZILbuA/" style="text-decoration:none;">
     <img src="./data/ICON/Q.png" width="60">
   </a>
-  <a href="https://user.qzone.qq.com/3525987739/">
+  <a href="https://user.qzone.qq.com/3525987739/" style="text-decoration:none;">
     <img src="./data/ICON/QZ.png" width="60">
   </a>
   <br><br><br>
