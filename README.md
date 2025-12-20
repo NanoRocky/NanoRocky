@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="./README.md">
+  <a href="./README.md" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/中文%20🐾-c7cae9?style=for-the-badge&logoColor=7b8ba5&labelColor=c7cae9" style="border-radius: 12px;" />
   </a>
-  <a href="./README_EN.md">
+  <a href="./README_EN.md" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/英语%20-6d4c41?style=for-the-badge&logoColor=fdf0d5&labelColor=6d4c41" style="border-radius: 12px;" />
   </a>
 </p>
@@ -106,4 +106,6 @@
     <img src="./data/ICON/QZ.png" width="60">
   </a>
   <br><br><br>
-  <img src="./data/nr2.png">
+  <a href="#" style="text-decoration:none;">
+    <img src="./data/nr2.png">
+  </a>
