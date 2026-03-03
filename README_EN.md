@@ -99,7 +99,7 @@
   <a href="mailto:gongxi3525987739@gmail.com" style="text-decoration:none;">
     <img src="./data/ICON/E.png" width="60">
   </a>
-  <a href="https://qm.qq.com/q/ZSyVZILbuA/" style="text-decoration:none;">
+  <a href="https://qm.qq.com/q/I5B08eJkwS" style="text-decoration:none;">
     <img src="./data/ICON/Q.png" width="60">
   </a>
   <a href="https://user.qzone.qq.com/3525987739/" style="text-decoration:none;">
