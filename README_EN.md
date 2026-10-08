@@ -16,13 +16,13 @@
 <div align="center">
   <h2>✨ ฅ^•ﻌ•^ฅ  Hi! I'm NanoRocky, nice to meet you!</h2>
   <p>
-    `酪灰` in Chinese, a sophomore majoring in Computer Applications.<br>
+    `酪灰` in Chinese, a sophomore majoring in Computer Applications.
     I'm trying to grow from a newbie cat who can only type "Hello World" into a lazy cat! (nope)
   </p>
   <p align="left" style="display: inline-block; text-align: left;">
-    🐾 <b>Current learning：</b> Vue.js, TypeScript, Python, C++, PHP (Level 1 🌿) <br>
-    🐾 <b>Sharpening my claws：</b> Touching fish (Slacking off) <br>
-    🐾 <b>Territory：</b> I love Furry and open-source exploration.<br>
+    &nbsp;&nbsp;&nbsp;🐾 <b>Current learning：</b> Vue.js, TypeScript, Python, C++, PHP (Level 1 🌿) <br>
+    &nbsp;&nbsp;&nbsp;🐾 <b>Sharpening my claws：</b> Touching fish (Slacking off) <br>
+    &nbsp;&nbsp;&nbsp;🐾 <b>Territory：</b> I love Furry and open-source exploration.<br>
   </p>
 </div>
 
