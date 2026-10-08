@@ -67,7 +67,6 @@
 </p>
 
 <p align="center">
-  <!-- 喵~ 这里的图片等你的 GitHub Action 跑完就会变成你自己的奶茶色贪吃蛇啦！ -->
   <img src="https://raw.githubusercontent.com/NanoRocky/NanoRocky/output/github-contribution-grid-snake-custom.svg" alt="GitHub Contribution Snake" width="90%" />
 </p>
 
