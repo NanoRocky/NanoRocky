@@ -51,7 +51,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NanoRocky&show_icons=true&theme=merko&bg_color=fdf0d5&title_color=6d4c41&text_color=5d4037&icon_color=c62828&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanoRocky&layout=compact&theme=merko&bg_color=fdf0d5&title_color=6d4c41&text_color=5d4037&hide_border=false&langs_count=6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanoRocky&layout=compact&theme=merko&bg_color=fdf0d5&title_color=6d4c41&text_color=5d4037&hide_border=false&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
